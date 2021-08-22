@@ -1,7 +1,8 @@
 ## Project-Purple-Cow
-Project Purple Cow is monitoring the customer’s domains for SSL certificates - ensuring that they are always valid hosted on the AWS platform.
-
-# Tools Requriments
+Project Purple Cow is monitoring the customer’s domains for SSL certificates - ensuring that they are always valid.<br/>
+This also tells the start date and end date of the SSLCerts. <br/>
+This project based on automation deployment hosting on AWS Platform.<br/>
+## Tools Requriments
 -Terraform enterprise<br/>
 -Visual studio Code <br/>
 -AWS lamda Function,IAM Role,Policy <br/>
