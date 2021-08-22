@@ -5,7 +5,10 @@ Project Purple Cow is monitoring the customer’s domains for SSL certificates -
 -Terraform enterprise<br/>
 -Visual studio Code <br/>
 -AWS lamda Function,IAM Role,Policy <br/>
--Powershell Script <br/>
+-Powershell version 5 Script <br/>
+<img width="760" alt="Screen Shot 2021-08-22 at 6 14 01 PM" src="https://user-images.githubusercontent.com/89275317/130371659-23221c3e-e681-4e92-ac9e-972487d584ba.png"> <br/>
+
+
 
 Flow Diagram:
 
