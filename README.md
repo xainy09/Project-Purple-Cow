@@ -20,7 +20,7 @@ Flow Diagram:
 
 -I started working on building a pipeline with AWS Code Build Service but it is still in progress but I would like to take this step in the future. I am attaching     the buildspec.yaml and pipeline.yaml file as reference.<br/>
 -In the Future I would like to add more functionality on the CICD Pipeline, I would like to add implementation  AWS Code build, Code Pipeline, Code Deploy, Octopus Deployment init.<br/>
--I will setup more Specifically the Deploy Target environment for DEv, QA, Prod if needed<br/>
+-I will setup more Specifically the Deploy Target environment for Dev, QA, Prod if needed<br/>
 
 Flow Diagram:
 <img width="1173" alt="image" src="https://user-images.githubusercontent.com/89275317/130370897-946ee08d-b31f-433c-82e2-7dc28c8445d3.png">
