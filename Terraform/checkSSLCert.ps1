@@ -1,3 +1,4 @@
+function Get_SSlCert  {
 $url = "https://www.microsoft.com/"
 [Net.ServicePointManager]::ServerCertificateValidationCallback = { $true }
 $req = [Net.HttpWebRequest]::Create($url)
@@ -8,3 +9,4 @@ $result = [PSCustomObject]@{
    'Cert End Date' = $req.ServicePoint.Certificate.GetExpirationDateString()
 }
 $result
+}
